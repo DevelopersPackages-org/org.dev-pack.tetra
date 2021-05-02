@@ -1,6 +1,6 @@
-ErrorDocument 404 /errors/404.html
-ErrorDocument 418 /errors/418.html
-ErrorDocument 429 /errors/429.html
-ErrorDocument 403 /errors/403.html
-ErrorDocument 451 /errors/451.html
-ErrorDocument 500 /errors/500.html
+ErrorDocument 404 /reqs/404.html
+ErrorDocument 418 /reqs/418.html
+ErrorDocument 429 /reqs/429.html
+ErrorDocument 403 /reqs/403.html
+ErrorDocument 451 /reqs/451.html
+ErrorDocument 500 /reqs/500.html
